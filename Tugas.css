@@ -1,0 +1,21 @@
+body {
+  background-color: #6716e9;
+}
+.conteiner {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  align-content: center;
+  margin-top: 50%;
+
+}
+table, th, td {
+   border-collapse: collapse;
+   padding: 10px;
+   text-align: center;
+   font-family:cursive ;
+   font-size: 20px;
+   margin: auto;
+   color: aquamarine;
+   
+}
