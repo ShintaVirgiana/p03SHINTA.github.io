@@ -1,0 +1,25 @@
+body {
+  background-color: lightskyblue;
+}
+.conteiner {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  align-content: center;
+
+}
+table,td {
+   border-collapse: collapse;
+   padding: 10px;
+   text-align: center;
+   font-family: Verdana;
+   font-size: 20px;
+   margin: auto;
+   color: white;
+   background-color: tomato;
+   
+}
+th {
+  background-color: crimson;
+  
+}
