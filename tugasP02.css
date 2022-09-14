@@ -1,0 +1,41 @@
+body {
+    background-color: lightskyblue;
+  }
+  h1 {
+    text-align: center;
+  }
+  .th2 {
+    padding-left: 1px;
+    padding-right: 175px;
+  }
+  .conteiner {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    margin-top: 50px;
+  
+  }
+  table, th, td {
+     border-collapse: collapse;
+     padding: 10px;
+     text-align: center;
+     font-family: Verdana;
+     font-size: 20px;
+     margin: auto;
+     
+  }
+  tr,th {
+    background-color: rgb(171, 0, 148));
+  }
+  tr,td {
+    background-color: pink;
+    color: beige;
+    cursor: pointer;
+  }
+  rt,td:hover{
+    transition: all .5s ease;
+    background-color: aqua;
+    color: black;
+  }
+  
